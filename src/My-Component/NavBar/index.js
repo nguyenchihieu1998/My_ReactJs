@@ -13,7 +13,7 @@ const Navbar = ()=>{
                 </ul>
             </div>
             <a href="/" class="flex">
-                <span class="text-2xl font-semibold dark:text-gray-900">BOUTIQUE</span>
+                <span class="text-2xl font-serif italic dark:text-gray-900">BOUTIQUE</span>
             </a>
             <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
                 <button type="button" class="text-gray-500 mx-auto md:p-2 hover:text-yellow-500"><i class="bi bi-cart-fill"> Cart</i></button>
