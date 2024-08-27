@@ -7,12 +7,12 @@ import Navbar from './My-Component/NavBar';
 import 'bootstrap-icons/font/bootstrap-icons.css';
 import Banner from './My-Component/Banner';
 import Body from './My-Component/Body';
+import Footer from './My-Component/Footer';
+import SignUp from './My-Component/Login/SignUp';
 export default function App() {
   return (
     <>
-      <Navbar></Navbar>
-      <Banner></Banner>
-      <Body></Body>
+      <SignUp/>
     </>
   );
 }

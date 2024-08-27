@@ -1,4 +1,4 @@
-import banner from '../../Image/banner1.jpg'
+import banner from '../Image/banner1.jpg'
 const Banner = ()=>{
     return<>
     <div class="bg-white dark:bg-gray-50 w-screen border-b border-gray-200 dark:border-gray-50">
